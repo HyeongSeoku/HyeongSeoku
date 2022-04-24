@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 기술이 가진 긍정적인 효과를 믿는 프론트엔드 개발자 **김형석**입니다.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeongSeoku)](https://github.com/anuraghazra/github-readme-stats)
 
 
